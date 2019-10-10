@@ -1,8 +1,12 @@
 import nav from "./nav";
 import {top, bottom} from "./footer";
-//can do this because webpack has middleware to handle it but normally cant have es module syntax and commonjs syntax
 import makeButton from "./button"; 
+import { red, blue, makeColorStyle } from "./button-styles";
 
-
-console.log(nav()); 
-console.log("top: ", top, " and bottom: ", bottom);
+console.log(
+  nav(),
+  top,
+  bottom,
+  makeButton("My first Button"), 
+  makeColorStyle('cyan')
+);
