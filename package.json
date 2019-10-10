@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheLarkInn/webpack-workshop-2018.git"
+    "url": "git+https://github.com/Craicerjack/webpack-workshop-2018.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheLarkInn/webpack-workshop-2018/issues"
+    "url": "https://github.com/Craicerjack/webpack-workshop-2018/issues"
   },
-  "homepage": "https://github.com/TheLarkInn/webpack-workshop-2018#readme",
+  "homepage": "https://github.com/Craicerjack/webpack-workshop-2018#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
   }

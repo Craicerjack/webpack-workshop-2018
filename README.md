@@ -24,7 +24,7 @@ Tip: Use `git checkout BRANCH_NAME -f` to jump into a given branch. The `-f` wil
 
 ## Contact
 * Email: sean.larkin@microsoft.com
-* Twitter: [@TheLarkInn](https://twitter.com/thelarkinn)
+* Twitter: [@Craicerjack](https://twitter.com/thelarkinn)
 
 ## Support for the Courses
 * Log a [Github issue](https://github.com/thelarkinn/webpack-workshop-2018/issues) if there's an issue with the code.
